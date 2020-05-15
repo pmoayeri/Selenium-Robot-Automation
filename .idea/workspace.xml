@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08819eb6-072f-436e-92f2-cd791f95b23a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b306wRip3cSqqhn75LHh1atDvm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Driver" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\piroo\PycharmProjects\RobotAutomation\Driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\piroo\PycharmProjects\RobotAutomation\TestCases\Sample" />
+      <recent name="C:\Users\piroo\PycharmProjects\RobotAutomation\TestCases" />
+      <recent name="C:\Users\piroo\PycharmProjects\RobotAutomation" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08819eb6-072f-436e-92f2-cd791f95b23a" name="Default Changelist" comment="" />
+      <created>1587845297659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587845297659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589303829409">
+      <screen x="0" y="0" width="1280" height="768" />
+    </state>
+    <state x="336" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.736@0.0.1280.736" timestamp="1588125128416" />
+    <state x="336" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.768@0.0.1280.768" timestamp="1589303829409" />
+    <state x="672" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1408@0.0.2560.1408" timestamp="1588518254968" />
+    <state x="840" y="230" key="FileChooserDialogImpl" timestamp="1588536381919">
+      <screen x="0" y="0" width="2560" height="1408" />
+    </state>
+    <state x="420" y="120" key="FileChooserDialogImpl/0.0.1280.736@0.0.1280.736" timestamp="1587852859700" />
+    <state x="840" y="230" key="FileChooserDialogImpl/0.0.2560.1408@0.0.2560.1408" timestamp="1588536381919" />
+    <state x="220" y="123" key="IDE.errors.dialog" timestamp="1589303357925">
+      <screen x="0" y="0" width="1280" height="768" />
+    </state>
+    <state x="220" y="123" key="IDE.errors.dialog/0.0.1280.768@0.0.1280.768" timestamp="1589303357925" />
+    <state x="143" y="21" key="SettingsEditor" timestamp="1589335701578">
+      <screen x="0" y="0" width="1280" height="736" />
+    </state>
+    <state x="143" y="21" key="SettingsEditor/0.0.1280.736@0.0.1280.736" timestamp="1589335701578" />
+    <state x="347" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1589480971881">
+      <screen x="0" y="0" width="1280" height="736" />
+    </state>
+    <state x="347" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.736@0.0.1280.736" timestamp="1589480971881" />
+    <state x="694" y="390" key="com.intellij.ide.util.TipDialog/0.0.2560.1408@0.0.2560.1408" timestamp="1588568824750" />
+    <state x="1079" y="426" width="670" height="676" key="search.everywhere.popup" timestamp="1588541024031">
+      <screen x="0" y="0" width="2560" height="1408" />
+    </state>
+    <state x="1079" y="426" width="670" height="676" key="search.everywhere.popup/0.0.2560.1408@0.0.2560.1408" timestamp="1588541024031" />
+  </component>
+</project>

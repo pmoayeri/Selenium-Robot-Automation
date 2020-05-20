@@ -1,6 +1,6 @@
 *** Settings ***
 Library    SeleniumLibrary
-Resource    ../Resources/Resources_For_TC_006.robot
+Resource    ../Resources/Resources_For_TC_006-9.robot
 Documentation    This File having testcase of testing ABC functionality
 Test Setup    Start Browser and Maximize
 Test Teardown   Close Browser Window
